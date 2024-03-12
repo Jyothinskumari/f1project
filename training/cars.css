@@ -1,0 +1,263 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+.bg-img {
+    background-color: black;
+
+
+    background-size: cover;
+
+
+}
+
+.hr1 {
+    border-color: red;
+    border-width: 4px;
+}
+
+.img-edit1 {
+    width: 100%;
+}
+
+.para {
+
+    font-size: 28px;
+    padding: 10px;
+    color: white;
+    font-weight: 600;
+    font-family: "Caveat";
+}
+
+.para-span {
+    font-family: "bree serif";
+    color: red;
+    font-weight: 600;
+    font-size: 30px;
+    font-style: italic;
+}
+
+.para1-span {
+    font-family: "Caveat";
+    color: red;
+    font-weight: 500;
+    font-size: 28px;
+    font-style: italic;
+}
+
+.logo-edit {
+    height: 50px;
+    width: 70px;
+
+}
+
+.head {
+    font-family: "bree Serif";
+    font-size: 70px;
+    padding: 10px;
+    color: white;
+    font-style: italic;
+}
+
+span {
+    font-family: "Monoton";
+    color: red;
+    font-weight: 800;
+    font-size: 100px;
+    font-style: italic;
+}
+
+.button-bg {
+    font-size: 28px;
+    height: 60px;
+    width: 190px;
+    color: white;
+    font-weight: 600;
+    border-style: solid;
+    background-color: red;
+    border-color: white;
+    font-family: "Roboto";
+    border-radius: 8px;
+
+}
+
+.bg-second-1 {
+    background-color: #ffffff;
+    background-color: #323f4;
+}
+
+.F1-span-second {
+    color: red;
+    font-family: "Caveat";
+
+}
+
+
+.F1-cars-head {
+    color: black;
+    font-family: "Playfair display sc";
+    font-size: 38px;
+    font-weight: 800;
+}
+
+.card-heading-name {
+    color: black;
+    font-family: "Caveat";
+    font-size: 18px;
+}
+
+.card-theme {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 34px;
+    font-weight: 700;
+}
+
+.card-description {
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 26px;
+}
+
+.a1 {
+    color: red;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.team-racers {
+    color: black;
+    font-family: "Bree sarif";
+    font-size: 34px;
+    font-weight: bold;
+}
+
+.car-logo {
+    height: 100px;
+    width: 140px;
+}
+
+.car-company {
+    color: black;
+    font-size: 34px;
+    font-weight: bold;
+    font-family: "Caveat";
+}
+
+.driver {
+    font-family: "Roboto";
+    font-size: 26px;
+    color: #323f4b;
+    font-weight: bold;
+}
+
+.about-driver {
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 500;
+    color: #000000;
+}
+
+.f1-sponsors {
+    color: red;
+    font-family: "Playfair display";
+    font-weight: 800;
+    font-size: 44px;
+}
+
+.sponsers {
+    color: white;
+    font-family: "Playfair display";
+    font-weight: bold;
+    font-size: 36px;
+}
+
+.sponsors-bg-card {
+    background-color: black;
+}
+
+.follow-us-section-bg-container {
+    background-color: black;
+}
+
+.follow-us-section-logo-img-edit {
+    height: 70px;
+    width: 90px;
+    margin-bottom: 16px;
+}
+
+.icon-container {
+    background-color: #202b36;
+    width: 70px;
+    height: 70px;
+    color: #5a7184;
+    font-size: 26px;
+    border-radius: 40px;
+    margin-right: 14px;
+    padding-top: 18px;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    padding-left: 22px;
+}
+
+.follow-us-section-address {
+    font-family: "roboto";
+    font-size: 24px;
+    color: #5a7184;
+}
+
+.contact-us-heading {
+    font-family: "roboto";
+    font-size: 28px;
+    color: #5a7184;
+    font-weight: 800;
+    padding-bottom: 10px;
+}
+
+.let-us-help-heading {
+    font-family: "roboto";
+    font-size: 28px;
+    color: #5a7184;
+    font-weight: 800;
+    padding-bottom: 10px;
+}
+
+.contact-ion-cantainer {
+    color: #5a7184;
+    font-size: 26px;
+}
+
+.copyright-ion-cantainer {
+    color: #5a7184;
+    font-size: 26px;
+}
+
+.contact-info {
+    font-family: "roboto";
+    font-size: 24px;
+    color: #5a7184;
+    padding-left: 18px;
+    padding-bottom: 10px;
+}
+
+.copyrights-description {
+    font-family: "roboto";
+    font-size: 24px;
+    color: #959ead;
+    padding-left: 10px;
+}
+
+.let-us-info {
+    font-family: "roboto";
+    font-size: 24px;
+    color: #5a7184;
+}
+
+.let-us-help-card {
+    margin-left: 90px;
+}
+
+hr {
+    border-color: #5a7184;
+    border-width: 2px;
+}
